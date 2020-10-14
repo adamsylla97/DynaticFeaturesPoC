@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dynatic Features PoC</string>
+    <string name="title_sunflower">Sunflower</string>
+    <string name="title_daisy">daisy</string>
+    <string name="title_tulip">Tulip</string>
+    <string name="tulip">Tulip</string>
+    <string name="daisy">Daisy</string>
+    <string name="sunflower">Sunflower</string>
+    <string name="avaible_features">Avaible features</string>
+    <string name="this_is_sample_app_for_dynamic_features">This is sample app for dynamic features</string>
+</resources>

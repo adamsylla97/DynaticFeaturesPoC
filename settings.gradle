@@ -1,0 +1,5 @@
+include ':tulip'
+include ':daisy'
+include ':sunflower'
+include ':app'
+rootProject.name = "Dynatic Features PoC"
